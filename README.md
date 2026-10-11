@@ -199,3 +199,5 @@ The accompanying Google Colab notebook also contains an English-to-French transl
 ## 🏁 Conclusion
 
 AI Language Translator demonstrates how multilingual Transformer models can be integrated into an interactive web application. By combining NLLB-200, PyTorch, Hugging Face Transformers, and Streamlit, the project provides a convenient way to translate text across multiple languages. Its language selection, translation output, statistics, and download features make it a useful foundation for further development of AI-powered language tools.
+
+![ml](https://github.com/rushikeshwalode06-cod/AI-Language_Text_Translator/blob/main/Language_Translator_image.png?raw=true)
