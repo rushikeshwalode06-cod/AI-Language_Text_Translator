@@ -57,6 +57,8 @@ AI Language Translator is an AI-powered multilingual translation application bui
 9. 💻 **Execution Device:** CUDA GPU or CPU
 10. 🖥️ **Application Framework:** Streamlit
 
+![ml](https://github.com/rushikeshwalode06-cod/AI-Language_Text_Translator/blob/main/Language_Translator_model_image.png?raw=true)
+
 ## 🌐 Supported Languages
 
 The application includes 40 languages, including:
